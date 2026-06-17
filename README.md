@@ -3,7 +3,7 @@
     <img align="left" alt="Icon" height="90" src="Icon.png">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
-Tower DPS Display
+Income Breakdown
 </h1>
 
 ### Adds a button on the pause screen that shows you how much money you got from pops, farms, etc.
